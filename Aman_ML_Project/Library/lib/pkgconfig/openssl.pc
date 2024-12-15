@@ -1,0 +1,9 @@
+prefix=H:/Pregrad_Course/Aman_Algerian_Forest_Fires/Aman_ML_Project/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.15 
